@@ -11,3 +11,4 @@ The Pico HAT from the Computer Systems course that is controlled by Raspberry Pi
 * **Buttons (x2):** Two tactile buttons for user input
 * **RGB LED:** Multi-color status indicator
 * **Red LED:** Single red status indicator
+![./Pico.svg]()
